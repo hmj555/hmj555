@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->I completed bachelor's degree in statistics at Jeonbuk National University. In order to become a data scientist, I am currently preparing to apply for a master's degree program.
-I am interested in data mining, machine learning, and deep learning, and I enjoy projects that discover tasks - - data analysis - derive meaningful results - make practical suggestions.
+I am interested in data mining, machine learning, and deep learning, and I enjoy projects that discover tasks - collect data - data analysis - derive meaningful results - make practical suggestions.
 
 
 
