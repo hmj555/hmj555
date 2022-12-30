@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **hmj555/hmj555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I completed may bachelor's degree in statistics at Jeonbuk National University.
+-->I completed bachelor's degree in statistics at Jeonbuk National University. In order to become a data scientist, I am currently preparing to apply for a master's degree program.
+I am interested in data mining, machine learning, and deep learning, and I enjoy projects that discover tasks - - data analysis - derive meaningful results - make practical suggestions.
+
+
+
+
+
+`-` Email: hanminju55@naver.com / hanminju55@jbnu.ac.kr
+
+`-` Phone: -
+
+`-` blog: https://blog.naver.com/hanminju55
