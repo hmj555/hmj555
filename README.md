@@ -18,10 +18,26 @@ I am interested in data mining, machine learning, and deep learning, and I enjoy
 
 
 
-
+`-` MBTI: INTJ-T
 
 `-` Email: hanminju55@naver.com / hanminju55@jbnu.ac.kr
 
 `-` Phone: -
 
 `-` blog: https://blog.naver.com/hanminju55
+
+
+
+`-` lectures taken
+
+
+`-` certificate
+
+
+`-` activity
+
+`-` desire lab
+
+`-` strength
+
+`-` 
