@@ -42,20 +42,22 @@ Introduction to Big Data, Introduction to R, Introduction to Python, Introductio
 
 `-` activity
 
-통계교육 재능기부단 봉사활동
-통계교육 재능기부 슬로건 공모전 우수상
-2021 교내 우수 서평 공모전 우수상
-교내 독서 토론 프로그램(책벌레 기르기)
-빅데이터 동아리 V.I.B
-전북대학교 근로 장학생
-전북창조경제혁신센터 인턴
-아르바이트 경험 20곳 이상
+통계교육 재능기부단 봉사활동,
+통계교육 재능기부 슬로건 공모전 우수상,
+2021 교내 우수 서평 공모전 우수상,
+교내 독서 토론 프로그램(책벌레 기르기),
+빅데이터 동아리 V.I.B,
+전북대학교 근로 장학생,
+전북창조경제혁신센터 인턴,
+아르바이트 경험 20곳 이상,
 독서 누적 100권
 
 
 `-` program used
+
 Python, R, Julia , SPSS
 
 
 `-` desire lab
+
 Data Science lab, Data Mining lab
