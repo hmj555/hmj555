@@ -55,7 +55,7 @@ Introduction to Big Data, Introduction to R, Introduction to Python, Introductio
 
 `-` program used
 
-Python, R, Julia , SPSS
+Python, R, Julia, SPSS
 
 
 `-` desire lab
