@@ -59,4 +59,4 @@ Python, R, Julia, SPSS
 
 `-` desire lab
 
-Data Science lab, AI lab
+Data Mining lab, Data Science lab
