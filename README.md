@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-`-` Email: hanminju55@naver.com / hanminju55@jbnu.ac.kr
+
+
+`-` Email: hanminju55@naver.com / hminju333@gm.gist.ac.kr
 
 `-` Phone: -
 
