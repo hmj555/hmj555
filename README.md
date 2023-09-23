@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I completed bachelor's degree in statistics at Jeonbuk National University. In order to become a data scientist, I am currently preparing to apply for a master's degree program.
-I am interested in data mining, machine learning, and deep learning, and I enjoy projects that discover tasks - collect data - data analysis - derive meaningful results - make practical suggestions.
-
+-->I completed bachelor's degree in statistics at Jeonbuk National University. I am currently conducting research on AI for the socially disadvantaged at the Gwangju Institute of Science and Technology's SCI LAB.
 
 
 
