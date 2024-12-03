@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
--->I completed bachelor's degree in statistics at Jeonbuk National University. I am currently conducting research on AI for the socially disadvantaged at the Gwangju Institute of Science and Technology's SCI LAB.
+--> I hold a bachelor's degree in Statistics from Chonbuk National University and am currently conducting research in the field of Human-Computer Interaction (HCI) at SCI LAB, Gwangju Institute of Science and Technology (GIST).
 
 
 
@@ -35,5 +35,6 @@ Python, R, Julia, SPSS, SAS
 
 
 `-` Affiliation
-
-GIST SCI LAB
+Gwangju Institute of Science and Technology
+AI Graduate 
+Soft Computing&Interaction Laboratory
