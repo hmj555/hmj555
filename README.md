@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 --> I hold a bachelor's degree in Statistics from Chonbuk National University and am currently conducting research in the field of Human-Computer Interaction (HCI) at SCI LAB, Gwangju Institute of Science and Technology (GIST).
 
-<br>
+<br/>
 
 
 
