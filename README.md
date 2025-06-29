@@ -33,6 +33,6 @@ Python, R, Julia, SPSS, SAS
 
 
 `-` Affiliation
-Gwangju Institute of Science and Technology
-AI Graduate School
+Gwangju Institute of Science and Technology,
+AI Graduate School,
 Soft Computing&Interaction Laboratory
